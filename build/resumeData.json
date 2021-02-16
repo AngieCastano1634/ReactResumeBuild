@@ -1,10 +1,10 @@
 {
   "main": {
     "name":"Angie Ximena Castaño",
-    "description":"I am studying an Electric Engineering degree, also I love developing software",
+    "description":"I am studying an Electric Engineering degree and also I love developing software",
     "image":"profilepic.jpg",
-    "bio":"I love creating amazing projects being part of a cooperative team.\n I have a gift to apply mathematical-logical thinking.\n I enjoy learning different languages and sharing with plural cultures around the world.I learn and adapt quickly.",
-    "contactmessage":"You can get in touch with me throw the following channels.",
+    "bio":"I love creating amazing projects and being part of a cooperative team.\n I have a gift to apply mathematical-logical thinking.\n I enjoy learning different languages and sharing with multiple cultures around the world.I learn and adapt quickly.",
+    "contactmessage":"You can get in touch with me through the following channels:",
     "email": "angieximena98@gmail.com",
     "phone": "+57 3508042505",
     "github":"https://github.com/AngieCastano1634",
@@ -46,7 +46,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"I like to be updated of the new code languages and new frameworks, also knowing about the base languages like C:",
+    "skillmessage":"I like to be updated on the new code languages and new frameworks, also knowing about the base languages like C:",
     "education":[
       {
         "school":"Holberton School",
@@ -144,7 +144,7 @@
       },
       {
         "title":"Simple Shell",
-        "category":"Recreating the Shell system calls in the Linux Console",
+        "category":"Recreating the Shell, system calls in the Linux Console",
         "image":"SimpleShell.jpg",
         "url":"https://github.com/AngieCastano1634/simple_shell"
       },
