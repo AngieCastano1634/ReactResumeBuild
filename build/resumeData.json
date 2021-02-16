@@ -1,0 +1,165 @@
+{
+  "main": {
+    "name":"Angie Ximena Castaño",
+    "description":"I am studying an Electric Engineering degree, also I love developing software",
+    "image":"profilepic.jpg",
+    "bio":"I love creating amazing projects being part of a cooperative team.\n I have a gift to apply mathematical-logical thinking.\n I enjoy learning different languages and sharing with plural cultures around the world.I learn and adapt quickly.",
+    "contactmessage":"You can get in touch with me throw the following channels.",
+    "email": "angieximena98@gmail.com",
+    "phone": "+57 3508042505",
+    "github":"https://github.com/AngieCastano1634",
+    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "address":{
+      "street":"North of the city",
+      "city":"Bogotá - Colombia",
+      "state":"Cundinamarca",
+      "zip": "110141"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/angie.castano.a",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/angie_castano28",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/angie-c-3aab60166/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/tohu28/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/AngieCastano1634",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I like to be updated of the new code languages and new frameworks, also knowing about the base languages like C:",
+    "education":[
+      {
+        "school":"Holberton School",
+        "degree":"Full Stack Software Developer",
+        "graduated":"November 2020",
+        "description":"Learn Back-End and Front-End Web App Development"
+      },
+      {
+        "school":"Francisco José de Caldas Distrital University",
+        "degree":"Electrical Engineering Bachelor Degree",
+        "graduated":"January 2019 - July 2023",
+        "description":"Learn to apply the electricity and power concepts"
+      }
+    ],
+    "work":[
+      {
+        "company":"French Alliance",
+        "title":"French",
+        "years":"July - December 2016",
+        "description":"Level : B1.5. Speaking, writting and listening skills"
+      },
+      {
+        "company":"Callan Method for English Learning",
+        "title":"English",
+        "years":"January - December 2017",
+        "description":"Level : B2. Speaking, writting and listening skills"
+      },
+      {
+        "company":"Caro y Cuervo Institute",
+        "title":"Diplomat in pedagogy and didactic for Spanish teaching as a foreign language",
+        "years":"January - December 2017",
+        "description":"Spanish Grammar, Spanish phonetics,didactic, ludic and teaching methods to teach Spanish"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"70%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"30%"
+      },
+      {
+        "name":"CSS",
+        "level":"70%"
+      },
+      
+      {
+        "name":"AWS",
+        "level":"20%"
+      },
+      {
+        "name":"HTML",
+        "level":"70%"
+      },
+      {
+        "name":"JAVA",
+        "level":"80%"
+      },
+      {
+        "name":"MySQL",
+        "level":"70%"
+      },
+      {
+        "name":"C",
+        "level":"80%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"50%"
+      }
+
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"AirBnB Clone",
+        "category":"API's, Data Bases, Back-end and Front-end",
+        "image":"AirBnB.jpg",
+        "url":"https://github.com/AngieCastano1634/AirBnB_clone_v4"
+      },
+      {
+        "title":"Binary Trees",
+        "category":"Low Level And Algorithms With C",
+        "image":"BinaryTrees.jpeg",
+        "url":"https://github.com/AngieCastano1634/binary_trees"
+      },
+      {
+        "title":"Sorting Algorithms",
+        "category":"Low Level And Algorithms With C",
+        "image":"SortinAlgorithms.jpg",
+        "url":"https://github.com/AngieCastano1634/sorting_algorithms"
+      },
+      {
+        "title":"Simple Shell",
+        "category":"Recreating the Shell system calls in the Linux Console",
+        "image":"SimpleShell.jpg",
+        "url":"https://github.com/AngieCastano1634/simple_shell"
+      },
+      {
+        "title":"Double and Single Linked Lists",
+        "category":"Low level Algorithms With C",
+        "image":"MontyImg.png",
+        "url":"https://github.com/AngieCastano1634/monty-v1"
+      },
+      {
+        "title":"Hash Tables",
+        "category":"Low level Algorithms with C, Dictionaries",
+        "image":"HashTables.png",
+        "url":"https://github.com/AngieCastano1634/holbertonschool-low_level_programming/tree/master/0x1A-hash_tables"
+      }
+    ]
+  }
+}
